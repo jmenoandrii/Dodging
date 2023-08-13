@@ -5,6 +5,7 @@ If you want to run it through Unity, use the 2020.2.3f1 version.
 
 If you want to play the game itself, use the latest version.
 You can also download the game from Itch.io.
+
 [Download from Itch.io](https://godresky.itch.io/dodging)
 
 To play:
